@@ -1,0 +1,84 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/qing/linux/udacity/Self-drving Car_term2/LessonProject_PID/CarND-PID-Control-Project/src/PID.cpp
+PID.h
+/media/qing/linux/udacity/Self-drving Car_term2/LessonProject_PID/CarND-PID-Control-Project/src/PID.h
+iostream
+-
+
+/media/qing/linux/udacity/Self-drving Car_term2/LessonProject_PID/CarND-PID-Control-Project/src/PID.h
+
+/media/qing/linux/udacity/Self-drving Car_term2/LessonProject_PID/CarND-PID-Control-Project/src/json.hpp
+algorithm
+-
+array
+-
+cassert
+-
+cctype
+-
+ciso646
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstdlib
+-
+cstring
+-
+forward_list
+-
+functional
+-
+initializer_list
+-
+iomanip
+-
+iostream
+-
+iterator
+-
+limits
+-
+locale
+-
+map
+-
+memory
+-
+numeric
+-
+sstream
+-
+stdexcept
+-
+string
+-
+type_traits
+-
+utility
+-
+vector
+-
+
+/media/qing/linux/udacity/Self-drving Car_term2/LessonProject_PID/CarND-PID-Control-Project/src/main.cpp
+uWS/uWS.h
+-
+iostream
+-
+json.hpp
+/media/qing/linux/udacity/Self-drving Car_term2/LessonProject_PID/CarND-PID-Control-Project/src/json.hpp
+PID.h
+/media/qing/linux/udacity/Self-drving Car_term2/LessonProject_PID/CarND-PID-Control-Project/src/PID.h
+math.h
+-
+
